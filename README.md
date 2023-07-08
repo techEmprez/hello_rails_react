@@ -161,7 +161,6 @@ To run tests, run the following command:
 - Twitter: [![@techEmprez](https://img.shields.io/badge/-techEmprez-blue?logo=Twitter&logoColor=skyBlue&style=plastic)](https://twitter.com/techEmprez)
 - LinkedIn: [![Choice-Osobor(techEmprez)](https://img.shields.io/badge/-ChoiceOsobor-white?logo=LinkedIn&logoColor=181717&style=plastic)](https://www.linkedin.com/in/choice-osobor/)
   
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
